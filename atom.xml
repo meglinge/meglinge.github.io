@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MeglingeFeiFox</title>
+  
+  
+  <link href="http://blog.meglinge.top/atom.xml" rel="self"/>
+  
+  <link href="http://blog.meglinge.top/"/>
+  <updated>2021-06-11T03:26:55.027Z</updated>
+  <id>http://blog.meglinge.top/</id>
+  
+  <author>
+    <name>Meglinge Fei Fox</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://blog.meglinge.top/2021/06/11/hello-world/"/>
+    <id>http://blog.meglinge.top/2021/06/11/hello-world/</id>
+    <published>2021-06-11T03:26:55.027Z</published>
+    <updated>2021-06-11T03:26:55.027Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
